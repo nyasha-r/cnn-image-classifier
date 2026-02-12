@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 Run training:
 python train.py
-=======
+
 # CNN Image Classification using CIFAR-10
 
 ## Overview
