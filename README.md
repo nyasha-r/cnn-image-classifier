@@ -1,9 +1,6 @@
 # 🤖 AI Image Classifier
 A deep learning web application that classifies images using a Convolutional Neural Network (CNN). The model is built with TensorFlow/Keras and deployed using Streamlit.
 
-## 🌐 Live Demo
-🔗 https://nyasha-r-cnn-image-classifier.streamlit.app
-*(Update this link after deployment if needed.)*
 
 ## 📌 Features
 - CNN-based image classification
@@ -26,11 +23,6 @@ A deep learning web application that classifies images using a Convolutional Neu
 - **Classes:** Cat and Dog
 
 A deep learning web application that classifies images using a **Convolutional Neural Network (CNN)**. The model is built with **TensorFlow/Keras** and deployed through an interactive **Streamlit** interface.
-
-## 🌐 Live Demo
-🔗 https://nyasha-r-cnn-image-classifier.streamlit.app  
-
-
 
 
 ## 📌 Project Overview
